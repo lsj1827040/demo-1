@@ -11,7 +11,7 @@ public class Test {
 
 class Solution {
     public boolean isHappy(int n) {
-    	//adsfadsfasf
+    	//admin
         boolean is = false;
     	while (n!=1) {
 			int sum =0;
