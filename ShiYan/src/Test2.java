@@ -10,7 +10,7 @@ public class Test2 {
 		int[] nums= {2, 7, 11, 15};
 		int target = 13;
 		System.out.println(Arrays.toString(ss.twoSum(nums, target))  );
-		
+		//新的修改
 		
 	}
 }
